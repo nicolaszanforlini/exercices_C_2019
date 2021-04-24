@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572447425 source:/home/userc/projectsC/prjExoV7/main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

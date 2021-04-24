@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1572442231 source:/home/userc/projectsC/prjPermute/main.c
+	<stdio.h>
+	<stdlib.h>
+

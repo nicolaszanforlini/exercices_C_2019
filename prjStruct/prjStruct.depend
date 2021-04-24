@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572518957 source:/home/userc/projectsC/prjStruct/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

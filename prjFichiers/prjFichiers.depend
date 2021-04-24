@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1572537258 source:/home/userc/projectsC/prjFichiers/main.c
+	<stdio.h>
+	<stdlib.h>
+

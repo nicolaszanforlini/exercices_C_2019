@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572874999 source:/home/userc/projectsC/prjFichierTablo/main.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+
+1572874972 /home/userc/projectsC/prjFichierTablo/entete.h
+	<stdio.h>
+	<stdlib.h>
+
+1572874989 source:/home/userc/projectsC/prjFichierTablo/fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+

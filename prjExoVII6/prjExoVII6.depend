@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572535212 source:/home/userc/projectsC/prjExoVII6/fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+
+1572534433 /home/userc/projectsC/prjExoVII6/entete.h
+
+1572535259 source:/home/userc/projectsC/prjExoVII6/main.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+
